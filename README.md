@@ -1,4 +1,11 @@
 # 👋Hi there!
+
+This account is a personal account created for study use only.
+<br>
+Not used for business or other purposes.
+
+---
+
 ![](https://komarev.com/ghpvc/?username=xmaruwo&color=blue)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
