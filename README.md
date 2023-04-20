@@ -2,7 +2,7 @@
 
 This account is a personal account created for study use only.
 <br>
-Not used for business or other purposes.
+Not used in business operations.
 
 ---
 
